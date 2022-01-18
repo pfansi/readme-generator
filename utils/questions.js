@@ -38,13 +38,10 @@ const questions = [
     choices: [
       "MIT",
       "GPL-2.0",
-      "GPL-3.0",
       "Apache-2.0",
       "BSD-3-Clause",
-      "BSD-2-Clause",
       "MPL-2.0",
       "CDDL-1.0",
-      "EPL-2.0",
       "No License",
     ],
   },
