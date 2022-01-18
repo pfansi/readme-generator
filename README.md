@@ -28,6 +28,10 @@ I created a git repository folder that will host the finish website. The Reposit
 
 - Reasearched the most popular licenses and Created the questions files that that will be exported as a module.
 
+* Created the index.js file
+
+* I have install all the node module require for the app and created a function to initialize the application.
+
 ## Screenshots
 
 - This is the screenshot of the final application. ![screenshot](./images/daily_planner.JPG)
