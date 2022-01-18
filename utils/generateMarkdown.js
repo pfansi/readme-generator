@@ -4,15 +4,15 @@
 function renderLicenseBadge(license) {
   switch (license) {
     case "MIT":
-      return "[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)";
+      return "![License: MIT](https://img.shields.io/badge/License-MIT-blue)";
     case "Apache-2.0":
-      return "[![License](https://img.shields.io/badge/License-Apache--2.0-brightgreen)](https://opensource.org/licenses/Apache-2.0)";
+      return "![License](https://img.shields.io/badge/License-Apache--2.0-brightgreen)";
     case "GPL-2.0":
-      return "[![License: ISC](https://img.shields.io/badge/License-GPL--2.0-green)](https://opensource.org/licenses/GPL-2.0)";
+      return "![License: ISC](https://img.shields.io/badge/License-GPL--2.0-green)";
     case "BSD-3-Clause":
-      return "[![License: GPL v3](https://img.shields.io/badge/License-BSD--3--Clause-yellowgreen)](https://opensource.org/licenses/BSD-3-Clause)";
+      return "![License: GPL v3](https://img.shields.io/badge/License-BSD--3--Clause-yellowgreen)";
     case "MPL-2.0":
-      return "[![License: GPL v3](https://img.shields.io/badge/License-MPL--2.0-yellow)](https://opensource.org/licenses/MPL-2.0)";
+      return "![License: GPL v3](https://img.shields.io/badge/License-MPL--2.0-yellow)";
     case "CDDL-1.0":
       return "[![License: GPL v3](https://img.shields.io/badge/License-CDDL--1.0-orange)](https://opensource.org/licenses/CDDL-1.0)";
     case "No License":
@@ -25,17 +25,17 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   switch (license) {
     case "MIT":
-      return "[![License: MIT](https://opensource.org/licenses/MIT)]";
+      return "[License: MIT](https://opensource.org/licenses/MIT)]";
     case "Apache-2.0":
-      return "[![License](https://opensource.org/licenses/Apache-2.0)]";
+      return "[License](https://opensource.org/licenses/Apache-2.0)]";
     case "GPL-2.0":
-      return "![License: ISC](https://opensource.org/licenses/GPL-2.0)";
+      return "[License: ISC](https://opensource.org/licenses/GPL-2.0)";
     case "BSD-3-Clause":
-      return "![License: GPL v3](https://opensource.org/licenses/BSD-3-Clause)";
+      return "[License: GPL v3](https://opensource.org/licenses/BSD-3-Clause)";
     case "MPL-2.0":
-      return "![License: GPL v3](https://opensource.org/licenses/MPL-2.0)";
+      return "[License: GPL v3](https://opensource.org/licenses/MPL-2.0)";
     case "CDDL-1.0":
-      return "![License: GPL v3](https://opensource.org/licenses/CDDL-1.0)";
+      return "[License: GPL v3](https://opensource.org/licenses/CDDL-1.0)";
     case "No License":
       return "";
   }

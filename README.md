@@ -32,6 +32,10 @@ I created a git repository folder that will host the finish website. The Reposit
 
 * I have install all the node module require for the app and created a function to initialize the application.
 
+* Created the generateMarkdown file that will handle the the template readme file
+
+* Create the function that will render the License badge and link based on the user license choice.
+
 ## Screenshots
 
 - This is the screenshot of the final application. ![screenshot](./images/daily_planner.JPG)
