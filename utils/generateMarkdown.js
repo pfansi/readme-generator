@@ -68,11 +68,15 @@ function generateMarkdown(data) {
   * [Questions](#questions)
   
   ## Installation:
+  ---
+  Run this command to install dependencies:
   <pre><code>
   ${data.installation}
   </code></pre>
 
   ## Usage:
+  ---
+  Run this command to start the app:
   <pre><code>
   ${data.usage}
   </code></pre>
@@ -82,10 +86,10 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
   
   ## Contributing:
-  ${data.contribution}
+  ${data.contributing}
 
   ## Tests:
-  ${data.test}
+  ${data.tests}
   
   ## Questions:
   * **Contact details:**
