@@ -6,7 +6,7 @@ I created a git repository folder that will host the finished project. The Repos
 
 ## Link to the walktrough video functionality
 
-Application video [demo](https://pfansi.github.io/daily-planner/)
+Application video [demo](https://watch.screencastify.com/v/aTk4SiPgq2Lq4gRN6qjc)
 
 ## Task Description
 
@@ -22,10 +22,6 @@ The command-line application will take the user inputs and dynamically generate 
 - The application should then generate a readme file describing my application
 - If there is any issue , i t should prompt me with an error message.
 
-## Git Repository
-
-I created a git repository folder that will host the finished project. The Repository will be found [here](https://github.com/pfansi/readme-generator)
-
 ## What have you done
 
 - Created the repository for the app in GitHub and readme.md file to describe the different building phases of the application.- I have created the gitignore file and have untracked the node_module and the .DS_Store.
@@ -40,13 +36,4 @@ I created a git repository folder that will host the finished project. The Repos
 
 ## Screenshots
 
-- This is the screenshot of the final application. ![screenshot](./images/daily_planner.JPG)
-
-Installation
-Run the following command to install required dependencies
-
-npm install
-Usage
-Run the following command to run the application
-
-node index.js
+- This is the screenshot of the final application. ![screenshot](./utils/Generated_Markdown.JPG)

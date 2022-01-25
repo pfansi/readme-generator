@@ -1,7 +1,7 @@
-# tt
+# Professional README GENERATOR
   ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
   ## Description:
-  tt
+  I will build a readme file generator application using Node.js that will allow me to quickly and easily create a readme file for my future project .
   ## Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
@@ -14,14 +14,14 @@
   ---
   Run this command to install dependencies:
   <pre><code>
-  tt
+  npm install
   </code></pre>
 
   ## Usage:
   ---
   Run this command to start the app:
   <pre><code>
-  tt
+  node index.js
   </code></pre>
 
   ## License:
@@ -29,13 +29,13 @@
   # This Project is licensed under the MIT license
   
   ## Contributing:
-  tt
+  Project is opened for contributions.
 
   ## Tests:
-  tt
+   tests command not built.
   
   ## Questions:
   * **Contact details:**
-    * Github: [@tt](https://github.com/tt)
-    * Email: tt
+    * Github: [@pfansi](https://github.com/pfansi)
+    * Email: pfansi76@gmail.com
   
