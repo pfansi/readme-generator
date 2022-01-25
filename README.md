@@ -8,6 +8,10 @@ I created a git repository folder that will host the finished project. The Repos
 
 Application video [demo](https://watch.screencastify.com/v/aTk4SiPgq2Lq4gRN6qjc)
 
+## Link to the generated readme.md file
+
+To view the generated Markdown file [Click here](https://github.com/pfansi/readme-generator/blob/main/utils/generated-readme.md)
+
 ## Task Description
 
 I will build a readme file generator application using Node.js that will allow me to quickly and easily create a readme file for my future project .
